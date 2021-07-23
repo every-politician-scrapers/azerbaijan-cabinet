@@ -46,3 +46,6 @@ Style/TrailingCommaInArrayLiteral:
 
 Layout/ClassStructure:
   Enabled: true
+
+Style/RedundantRegexpEscape:
+  Enabled: false

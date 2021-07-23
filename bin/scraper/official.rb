@@ -13,7 +13,7 @@ class MemberList
     end
 
     field :position do
-      name_and_position.first.gsub(' of the Republic of Azerbaijan','')
+      name_and_position.first.gsub(' of the Republic of Azerbaijan', '')
     end
 
     private
