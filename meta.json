@@ -1,5 +1,15 @@
 {
-    "cabinet": "Q107619293",
-    "lang":    "en",
-    "agent":   "every-politican-scrapers/azerbaijan-cabinet"
+    "cabinet": {
+      "id": "Q107619293",
+      "start": "2019-10-08"
+    },
+    "source": {
+        "url":   "https://nk.gov.az/en/page/56/",
+        "title": "Cabinet of Ministers of the Republic of Azerbaijan | Azərbaycan Respublikasının Nazirlər Kabineti",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/azerbaijan-cabinet"
 }
