@@ -2,18 +2,19 @@ wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
 Q12850075,Ali Asadov,Ali Asadov,male,1956-11-30T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q946064,Prime Minister,Q12850075-3bdcc7ea-4f9b-4bb8-cae3-b10e916dff43
 Q64739163,Ali Naqiyev,Ali Naghiyev,male,1958-11-08T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q107709358,Chief of the State Security Service,Q64739163-540682AE-E7F5-4573-882A-92F313CE221D
 Q97698132,Anar Karimov,Anar Karimov,male,1977-06-03T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q106975479,Minister of Culture,Q97698132-4a1703a3-426e-7a20-0f47-83967e911cea
-Q4802771,Arzu Rahimov,Arzu Rahimov,male,1964-10-01T00:00:00Z,11,,Q107709350,Chief of the State Mobilization and Conscription Service,Q4802771-B2F8F86D-BECC-41ED-A350-6C76A8662AC9
-Q16367049,Elchin Guliyev,Elchin Guliyev,male,1967-09-22T00:00:00Z,11,,Q107709344,Chief of the State Border Service,Q16367049-A5DADF00-42C2-4122-BAF5-D70E2D30C4E5
+Q4802771,Arzu Rahimov,Arzu Rahimov,male,1964-10-01T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q107709350,Chief of the State Mobilization and Conscription Service,Q4802771-B2F8F86D-BECC-41ED-A350-6C76A8662AC9
+Q16367049,Elchin Guliyev,Elchin Guliyev,male,1967-09-22T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q107709344,Chief of the State Border Service,Q16367049-A5DADF00-42C2-4122-BAF5-D70E2D30C4E5
 Q97715003,Emin Amrullayev,Emin Amrullayev,male,1982-12-30T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q107703906,Minister of Education,Q97715003-B79BA48F-DD5F-4188-94DA-48013F14B0E1
-Q12839492,Fikrat Mammadov,Fikrat Mammadov,male,1955-07-01T00:00:00Z,11,,Q100972230,Minister of Justice,Q12839492-a74c257a-79d0-4d73-810a-e1d22aa60a46
-Q5506881,Fuad Muradov,Fuad Muradov,male,1979-07-22T00:00:00Z,11,,Q107709341,Chairman of the State Committee on Diaspora Affairs,Q5506881-D1206DCB-AD20-4305-97A0-E57BE2533263
-Q55202229,Fuad Naghiyev,Fuad Naghiyev,male,1975-07-22T00:00:00Z,11,,Q107709336,Chairman of the State Tourism Agency,Q55202229-BD37ADA2-2166-4CE1-907F-39C5448D6208
-Q55200630,Goshgar Tahmazli,Goshgar Tahmazli,male,1970-05-29T00:00:00Z,11,,Q107709331,Chairman of the Food Safety Agency,Q55200630-B296200A-A898-4CCB-ACC4-461A330DFD38
-Q4134808,Kamaladdin Heydarov,Kamaladdin Heydarov,male,1961-07-15T00:00:00Z,11,,Q107709290,Minister of Emergency Situations,Q4134808-DA5703AC-58E5-42EF-9E86-9E1A308371B9
+Q12839492,Fikrat Mammadov,Fikrat Mammadov,male,1955-07-01T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q100972230,Minister of Justice,Q12839492-a74c257a-79d0-4d73-810a-e1d22aa60a46
+Q5506881,Fuad Muradov,Fuad Muradov,male,1979-07-22T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q107709341,Chairman of the State Committee on Diaspora Affairs,Q5506881-D1206DCB-AD20-4305-97A0-E57BE2533263
+Q55202229,Fuad Naghiyev,Fuad Naghiyev,male,1975-07-22T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q107709336,Chairman of the State Tourism Agency,Q55202229-BD37ADA2-2166-4CE1-907F-39C5448D6208
+Q55200630,Goshgar Tahmazli,Goshgar Tahmazli,male,1970-05-29T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q107709331,Chairman of the Food Safety Agency,Q55200630-B296200A-A898-4CCB-ACC4-461A330DFD38
+Q16366137,Jeyhun Bayramov,Jeyhun Bayramov,male,1973-01-01T00:00:00Z,9,,Q2065366,Minister of Foreign Affairs,Q16366137-1840ec35-4b58-38c3-1d79-f084492ff268
+Q4134808,Kamaladdin Heydarov,Kamaladdin Heydarov,male,1961-07-15T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q107709290,Minister of Emergency Situations,Q4134808-DA5703AC-58E5-42EF-9E86-9E1A308371B9
 Q6584988,Mukhtar Babayev,Muxtar Babayev,male,1967-10-16T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q107709268,Minister of Ecology and Natural Resources,Q6584988-5E5235D7-8BBF-48D7-8E90-628ADAB22E9E
-Q65178679,Orkhan Sultanov,Orkhan Sultanov,male,1977-01-01T00:00:00Z,9,,Q107709263,Chief of the Foreign Intelligence Service,Q65178679-1BAFA306-DAFD-4901-BDAC-292783CA7CC2
+Q65178679,Orkhan Sultanov,Orkhan Sultanov,male,1977-01-01T00:00:00Z,9,https://nk.gov.az/en/page/56/,Q107709263,Chief of the Foreign Intelligence Service,Q65178679-1BAFA306-DAFD-4901-BDAC-292783CA7CC2
 Q55199625,Parviz Shahbazov,Parviz Shahbazov,male,1969-11-24T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q107709254,Minister of Energy,Q55199625-538D2B3C-3E75-4ADD-80BE-F10E828C5A3B
-Q4520550,Samir Sharifov,Samir Sharifov,male,1961-09-07T00:00:00Z,11,,Q100593128,Minister of Finance,Q4520550-0bf23ca2-4280-8ac8-edd9-868b3688f294
+Q4520550,Samir Sharifov,Samir Sharifov,male,1961-09-07T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q100593128,Minister of Finance,Q4520550-0bf23ca2-4280-8ac8-edd9-868b3688f294
 Q106637032,Teymur Musayev,Teymur Musayev,male,1970-09-16T00:00:00Z,11,,Q106998786,Minister of Health of the Republic of Azerbaijan,Q106637032-cf42654b-4e1b-0491-daf6-b421354fc42b
 Q64752976,Vilayat Eyvazov,Vilayet Eyvazov,male,1968-06-28T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q86531961,Minister of Internal Affairs,Q64752976-c62d988d-46e9-6723-12e2-3623e2953261
-Q12848240,Zakir Hasanov,Zakir Hasanov,male,1959-06-06T00:00:00Z,11,,Q100973202,Minister of Defense,Q12848240-d79d3015-4fc6-2409-29ad-4beecbf2f9dd
+Q12848240,Zakir Hasanov,Zakir Hasanov,male,1959-06-06T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q100973202,Minister of Defense,Q12848240-d79d3015-4fc6-2409-29ad-4beecbf2f9dd
