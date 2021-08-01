@@ -1,5 +1,5 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q4073064,Ali Ahmadov,Ali Ahmadov,male,1953-01-27T00:00:00Z,11,,Q107725196,Deputy Prime Minister,Q4073064-2FEF6BB9-9765-45F2-80E1-694FB18EEE2E
+Q4073064,Ali Ahmadov,Ali Ahmadov,male,1953-01-27T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q107725196,Deputy Prime Minister,Q4073064-2FEF6BB9-9765-45F2-80E1-694FB18EEE2E
 Q12850075,Ali Asadov,Ali Asadov,male,1956-11-30T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q946064,Prime Minister,Q12850075-3bdcc7ea-4f9b-4bb8-cae3-b10e916dff43
 Q64739163,Ali Naqiyev,Ali Naghiyev,male,1958-11-08T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q107709358,Chief of the State Security Service,Q64739163-540682AE-E7F5-4573-882A-92F313CE221D
 Q97698132,Anar Karimov,Anar Karimov,male,1977-06-03T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q106975479,Minister of Culture,Q97698132-4a1703a3-426e-7a20-0f47-83967e911cea
@@ -11,16 +11,16 @@ Q12839492,Fikrat Mammadov,Fikrat Mammadov,male,1955-07-01T00:00:00Z,11,https://n
 Q5506881,Fuad Muradov,Fuad Muradov,male,1979-07-22T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q107709341,Chairman of the State Committee on Diaspora Affairs,Q5506881-D1206DCB-AD20-4305-97A0-E57BE2533263
 Q55202229,Fuad Naghiyev,Fuad Naghiyev,male,1975-07-22T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q107709336,Chairman of the State Tourism Agency,Q55202229-BD37ADA2-2166-4CE1-907F-39C5448D6208
 Q55200630,Goshgar Tahmazli,Goshgar Tahmazli,male,1970-05-29T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q107709331,Chairman of the Food Safety Agency,Q55200630-B296200A-A898-4CCB-ACC4-461A330DFD38
-Q12849026,Inam Karimov,Inam Karimov,male,1977-06-06T00:00:00Z,11,,Q107722664,Minister of Agriculture,Q12849026-97CAB739-D376-4689-9F33-217DC52D10FA
+Q12849026,Inam Karimov,Inam Karimov,male,1977-06-06T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q107722664,Minister of Agriculture,Q12849026-97CAB739-D376-4689-9F33-217DC52D10FA
 Q16366137,Jeyhun Bayramov,Jeyhun Bayramov,male,1973-01-01T00:00:00Z,9,https://nk.gov.az/en/page/56/,Q2065366,Minister of Foreign Affairs,Q16366137-1840ec35-4b58-38c3-1d79-f084492ff268
 Q4134808,Kamaladdin Heydarov,Kamaladdin Heydarov,male,1961-07-15T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q107709290,Minister of Emergency Situations,Q4134808-DA5703AC-58E5-42EF-9E86-9E1A308371B9
-Q4151833,Madat Guliyev,Madat Guliyev,male,1958-09-27T00:00:00Z,11,,Q107722662,Minister of Defense Industry,Q4151833-ECAD437B-084F-4141-9011-6161096CFBAC
-Q15090186,Mikayil Jabbarov,Mikayil Jabbarov,male,1976-09-19T00:00:00Z,11,,Q107722655,Minister of Economy,Q15090186-F8F16EC9-F75B-4804-9346-09150E88D807
+Q4151833,Madat Guliyev,Madat Guliyev,male,1958-09-27T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q107722662,Minister of Defense Industry,Q4151833-ECAD437B-084F-4141-9011-6161096CFBAC
+Q15090186,Mikayil Jabbarov,Mikayil Jabbarov,male,1976-09-19T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q107722655,Minister of Economy,Q15090186-F8F16EC9-F75B-4804-9346-09150E88D807
 Q6584988,Mukhtar Babayev,Muxtar Babayev,male,1967-10-16T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q107709268,Minister of Ecology and Natural Resources,Q6584988-5E5235D7-8BBF-48D7-8E90-628ADAB22E9E
 Q65178679,Orkhan Sultanov,Orkhan Sultanov,male,1977-01-01T00:00:00Z,9,https://nk.gov.az/en/page/56/,Q107709263,Chief of the Foreign Intelligence Service,Q65178679-1BAFA306-DAFD-4901-BDAC-292783CA7CC2
 Q55199625,Parviz Shahbazov,Parviz Shahbazov,male,1969-11-24T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q107709254,Minister of Energy,Q55199625-538D2B3C-3E75-4ADD-80BE-F10E828C5A3B
-Q47773089,Rashad Nabiyev,Rashad Nabiyev,male,1977-08-26T00:00:00Z,11,,Q107722646,"Minister of Transport, Communications and High Technologies",Q47773089-2C53ED68-F5C2-4F9D-A9B8-5D107156EE94
-Q19715508,Rovshan Rzayev,Rovshan Rzayev,male,1962-01-20T00:00:00Z,11,,Q107725279,Chairman of the State Committee on Refugee and IDP Affairs,Q19715508-AE7A6FB1-5D71-44B3-AB58-5A237D32011E
+Q47773089,Rashad Nabiyev,Rashad Nabiyev,male,1977-08-26T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q107722646,"Minister of Transport, Communications and High Technologies",Q47773089-2C53ED68-F5C2-4F9D-A9B8-5D107156EE94
+Q19715508,Rovshan Rzayev,Rovshan Rzayev,male,1962-01-20T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q107725279,Chairman of the State Committee on Refugee and IDP Affairs,Q19715508-AE7A6FB1-5D71-44B3-AB58-5A237D32011E
 Q55202170,Sahil Babayev,Sahil Babayev,male,1980-01-01T00:00:00Z,9,,Q107722632,Minister of Labor and Social Protection of Population,Q55202170-C98B5014-8071-48F6-B9FF-19F0B146E81F
 Q4520550,Samir Sharifov,Samir Sharifov,male,1961-09-07T00:00:00Z,11,https://nk.gov.az/en/page/56/,Q100593128,Minister of Finance,Q4520550-0bf23ca2-4280-8ac8-edd9-868b3688f294
 Q15734658,Shahin Mustafayev,Shahin Mustafayev,male,1965-06-13T00:00:00Z,11,,Q107725196,Deputy Prime Minister,Q15734658-A6D7DC67-D622-47F9-9DDB-740413C2E67E
