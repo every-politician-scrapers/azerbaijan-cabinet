@@ -1,7 +1,12 @@
 {
+    "jurisdiction": {
+      "name": "Azerbaijan",
+      "id": "Q227"
+    },
     "cabinet": {
       "id": "Q107619293",
-      "start": "2019-10-08"
+      "start": "2019-10-08",
+      "parent": "Q13410372"
     },
     "source": {
         "url":   "https://nk.gov.az/en/page/56/",
