@@ -150,6 +150,15 @@
           },
           "religion": {
             "text": "Islam"
+          },
+          "predecessor1": {
+            "text": "Azad Rahimov",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Azad Rahimov"
+              }
+            ]
           }
         }
       ],
