@@ -196,10 +196,10 @@
             "text": "İlham Əliyev"
           },
           "image": {
-            "text": "File:Ilham Aliyev (official portrait) (cropped).jpg"
+            "text": "File:Ilham Aliyev was interviewed by Euronews TV (cropped) (cropped).jpg"
           },
           "caption": {
-            "text": "Official portrait, 2018"
+            "text": "Official portrait, 2020"
           },
           "order": {
             "text": "4th"
@@ -376,15 +376,10 @@
             ]
           },
           "nationality": {
-            "text": "Soviet Azerbaijani",
+            "text": "Azerbaijan",
             "links": [
               {
-                "text": "Soviet",
-                "type": "internal",
-                "page": "Soviet people"
-              },
-              {
-                "text": "Azerbaijani",
+                "text": "Azerbaijan",
                 "type": "internal",
                 "page": "Azerbaijani nationality law"
               }
