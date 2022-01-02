@@ -161,28 +161,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Fərid Qayıbov gənclər və idman naziri təyin edilib",
-          "url": "https://report.az/daxili-siyaset/ferid-qayibov-gencler-ve-idman-naziri-teyin-edilib/",
-          "access-date": "7 September 2021",
-          "work": "Report Information Agency",
-          "language": "az",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.ueg.org/en/The-President-s-Note-N%C2%B0-1-2018-2018-01-10-1200",
-          "archiveurl": "https://web.archive.org/web/20180916154343/http://www.ueg.org/en/The-President-s-Note-N%C2%B0-1-2018-2018-01-10-1200",
-          "archivedate": "2018-09-16",
-          "title": "The President's Note N° 1 2018",
-          "date": "2018-01-10",
-          "publisher": "ueg.org",
-          "accessdate": "2018-09-16",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
