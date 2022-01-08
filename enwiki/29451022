@@ -55,7 +55,7 @@
             "text": "Shahin Mustafayev Şahin Mustafayev"
           },
           "image": {
-            "text": "Shahin Mustafayev.jpg"
+            "text": "Shahin Mammadov in 2016.jpg"
           },
           "office": {
             "text": "First Deputy Prime Minister",
@@ -119,23 +119,6 @@
           },
           "birth_date": {
             "text": "June 13, 1965"
-          },
-          "birth_place": {
-            "text": "Qazakh, Azerbaijan SSR, USSR",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Qazakh"
-              },
-              {
-                "type": "internal",
-                "page": "Azerbaijan SSR"
-              },
-              {
-                "type": "internal",
-                "page": "USSR"
-              }
-            ]
           }
         }
       ]
