@@ -1,7 +1,4 @@
 @@,itemlabel,item,startdate,enddate
-+++,Shahin Musayev,Q7461778,1992-01-22,1992-05
-+++,Rufat Amirov,Q7377876,1992-05,1992-05
-+++,Valeh Barshadly,Q12847117,1992-05,1992-09-04
-+++,Nuraddin Sadigov,Q7070051,1992-09-04,1993-06-17
-+++,Safar Abiyev,Q2512500,1993-06-17,1993-11-02
-+++,Najmaddin Sadigov,Q4290690,1993-11-02,2021-01-28
+->,Shahin Musayev,Q7461778,1992-01-22,1992-05-01->1992-05
+->,Rufat Amirov,Q7377876,1992-05-01->1992-05,1992-05-01->1992-05
+->,Valeh Barshadly,Q12847117,1992-05-01->1992-05,1992-09-04
