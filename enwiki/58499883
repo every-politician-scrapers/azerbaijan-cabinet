@@ -18,16 +18,12 @@
         {
           "sentences": [
             {
-              "text": "Farid Gayibov (born April 24, 1979) is the minister of Youth and Sports of Azerbaijan and President of European Gymnastics.",
+              "text": "Farid Gayibov (born April 24, 1979) is the minister of Youth and Sports of Azerbaijan.",
               "links": [
                 {
                   "text": "Youth and Sports",
                   "type": "internal",
                   "page": "Ministry of Youth and Sports (Azerbaijan)"
-                },
-                {
-                  "type": "internal",
-                  "page": "European Gymnastics"
                 }
               ],
               "formatting": {
@@ -35,6 +31,18 @@
                   "Farid Gayibov"
                 ]
               }
+            },
+            {
+              "text": "Vice-President of the National Olympic Committee of Azerbaijan (2021)."
+            },
+            {
+              "text": "President of European Gymnastics.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "European Gymnastics"
+                }
+              ]
             }
           ]
         }
