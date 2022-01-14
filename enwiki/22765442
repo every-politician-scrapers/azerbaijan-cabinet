@@ -126,7 +126,7 @@
               ]
             },
             {
-              "text": "The Nagorno-Karabakh conflict continued during Aliyev's presidency and culminated into a full-scale war in 2020, in which most of the territory of the Republic of Artsakh established during the First Nagorno-Karabakh War came under Azerbaijani control.",
+              "text": "The Nagorno-Karabakh conflict continued during Aliyev's presidency and culminated into a full-scale war in 2020, in which in which Azerbaijan regained control over the Armenian-occupied territories surrounding Nagorno-Karabakh that were lost during the First Nagorno-Karabakh War, as well as a part of Nagorno-Karabakh region itself.",
               "links": [
                 {
                   "type": "internal",
@@ -139,11 +139,15 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Republic of Artsakh"
+                  "page": "Armenian-occupied territories surrounding Nagorno-Karabakh"
                 },
                 {
                   "type": "internal",
                   "page": "First Nagorno-Karabakh War"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nagorno-Karabakh"
                 }
               ]
             }
