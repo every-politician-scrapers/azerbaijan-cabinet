@@ -52,6 +52,10 @@
       ],
       "templates": [
         {
+          "description": "Azerbaijani politician",
+          "template": "short description"
+        },
+        {
           "year": "1977",
           "month": "06",
           "day": "06",

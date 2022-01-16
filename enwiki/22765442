@@ -34,7 +34,7 @@
         {
           "sentences": [
             {
-              "text": "Ilham Heydar oghlu Aliyev (born 24 December 1961) is the fourth president of Azerbaijan, serving in the post since 31 October 2003.",
+              "text": "Ilham Heydar oghlu Aliyev (İlham Heydər oğlu Əliyev, ; born 24 December 1961) is the fourth president of Azerbaijan, serving in the post since 31 October 2003.",
               "links": [
                 {
                   "text": "president of Azerbaijan",
@@ -184,12 +184,6 @@
         {
           "transcription": "ilˈhɑm hejˈdæɾ oɣˈlu æˈlijef",
           "template": "ipa"
-        },
-        {
-          "list": [
-            "İlham Heydər oğlu Əliyev,."
-          ],
-          "template": "efn"
         }
       ],
       "infoboxes": [
