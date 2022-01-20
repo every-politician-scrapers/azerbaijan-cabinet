@@ -68,11 +68,7 @@
             },
             {
               "text": "Azerbaijan being oil-rich has strengthened the stability of Aliyev's regime and enriched ruling elites in Azerbaijan, making it possible for the country to host lavish international events, as well as engage in extensive lobbying efforts."
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "Aliyev's family have enriched themselves through their ties to state-run businesses."
             },
@@ -95,13 +91,25 @@
                   "page": "Money laundering"
                 }
               ]
+            },
+            {
+              "text": "He was named Corruption's 'Person Of The Year' by Organized Crime and Corruption Reporting Project in 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Organized Crime and Corruption Reporting Project"
+                }
+              ]
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Aliyev rules an authoritarian regime in Azerbaijan, as elections are not free and fair, political power is concentrated in the hands of Aliyev and his extended family, corruption is rampant, and human rights violations are severe (including torture, arbitrary arrests, as well as harassment of journalists and non-governmental organizations).",
+              "text": "Aliyev has been called a \"dictator\" by many sources."
+            },
+            {
+              "text": "He rules an authoritarian regime in Azerbaijan, as elections are not free and fair, political power is concentrated in the hands of Aliyev and his extended family, corruption is rampant, and human rights violations are severe (including torture, arbitrary arrests, as well as harassment of journalists and non-governmental organizations).",
               "links": [
                 {
                   "text": "human rights",
