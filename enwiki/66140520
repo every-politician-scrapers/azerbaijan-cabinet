@@ -17,7 +17,7 @@
         {
           "sentences": [
             {
-              "text": "Karim Tofig oglu Valiyev (Kərim Tofiq oğlu Vəliyev; born 1961) is an Azerbaijani military officer, serving as the lieutenant general in the Azerbaijani Armed Forces.",
+              "text": "Karim Tofig oglu Valiyev (Kərim Tofiq oğlu Vəliyev; born 1961) is an Azerbaijani military officer, serving as the colonel general in the Azerbaijani Armed Forces.",
               "links": [
                 {
                   "text": "Azerbaijani",
@@ -25,9 +25,9 @@
                   "page": "Azerbaijanis"
                 },
                 {
-                  "text": "lieutenant general",
+                  "text": "colonel general",
                   "type": "internal",
-                  "page": "lieutenant general"
+                  "page": "colonel general"
                 },
                 {
                   "type": "internal",
