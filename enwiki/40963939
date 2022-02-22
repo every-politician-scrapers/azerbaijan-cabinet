@@ -52,12 +52,12 @@
       ],
       "templates": [
         {
-          "date": "August 2020",
-          "template": "use dmy dates"
-        },
-        {
           "description": "Defence Minister of Azerbaijan",
           "template": "short description"
+        },
+        {
+          "date": "August 2020",
+          "template": "use dmy dates"
         },
         {
           "df": "yes",
@@ -170,7 +170,7 @@
             "text": "Azerbaijani"
           },
           "alma_mater": {
-            "text": "Jamshid Nakhchivanski Military Lyceum Baku Higher Combined Arms Command School",
+            "text": "Jamshid Nakhchivanski Military Lyceum\nBaku Higher Combined Arms Command School",
             "links": [
               {
                 "type": "internal",
