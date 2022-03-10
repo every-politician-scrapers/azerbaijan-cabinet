@@ -1,158 +1,19 @@
 {
-  "title": "Anar Karimov",
-  "pageID": 64997636,
-  "categories": [
-    "Baku State University alumni",
-    "Academy of Public Administration (Azerbaijan) alumni",
-    "1977 births",
-    "Azerbaijani diplomats",
-    "Azerbaijani politicians",
-    "Living people",
-    "People from Fuzuli District"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Anar Gabil oghlu Karimov (Anar Qabil oğlu Kərimov, 3 June 1977) is an Azerbaijani politician who currently serves as Minister of Culture of the Republic of Azerbaijan.",
-              "links": [
-                {
-                  "text": "Minister of Culture of the Republic of Azerbaijan",
-                  "type": "internal",
-                  "page": "Ministry of Culture (Azerbaijan)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Anar Gabil oghlu Karimov"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Azerbaijani politician",
-          "template": "short description"
-        },
-        {
-          "year": "1977",
-          "month": "06",
-          "day": "03",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Anar Karimov\nAnar Kərimov"
-          },
-          "image": {
-            "text": "Anar Karimov.jpg"
-          },
-          "title": {
-            "text": "Minister of Culture of the Republic of Azerbaijan",
-            "links": [
-              {
-                "text": "Minister of Culture of the Republic of Azerbaijan",
-                "type": "internal",
-                "page": "Ministry of Culture (Azerbaijan)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "5 January 2021\n(Acting: 20 July 2020 – 5 January 2021)"
-          },
-          "predecessor": {
-            "text": "Abulfas Garayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abulfas Garayev"
-              }
-            ]
-          },
-          "president": {
-            "text": "Ilham Aliyev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ilham Aliyev"
-              }
-            ]
-          },
-          "office1": {
-            "text": "First Deputy Minister of Culture of the Republic of Azerbaijan"
-          },
-          "president1": {
-            "text": "Ilham Aliyev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ilham Aliyev"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "20 July 2020"
-          },
-          "term_end1": {
-            "text": "5 January 2021"
-          },
-          "office2": {
-            "text": "Permanent Delegate of the Republic of Azerbaijan to UNESCO"
-          },
-          "term_start2": {
-            "text": "23 May 2014"
-          },
-          "term_end2": {
-            "text": "20 July 2020"
-          },
-          "birth_date": {
-            "text": "June 3, 1977"
-          },
-          "birth_place": {
-            "text": "Fuzuli District, Azerbaijan SSR, USSR",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fuzuli District"
-              },
-              {
-                "type": "internal",
-                "page": "Azerbaijan SSR"
-              },
-              {
-                "type": "internal",
-                "page": "USSR"
-              }
-            ]
-          },
-          "education": {
-            "text": "Baku State University (1998) Academy of Public Administration (2003)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Baku State University"
-              },
-              {
-                "text": "Academy of Public Administration",
-                "type": "internal",
-                "page": "Academy of Public Administration (Azerbaijan)"
-              }
-            ]
-          },
-          "awards": {
-            "text": "Vətənə xidmətə görə I, II və III dərəcəli ordeni.png"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Anar Karimov\nAnar Kərimov",
+  "image": "Anar Karimov.jpg",
+  "title": "Minister of Culture of the Republic of Azerbaijan",
+  "term_start": "5 January 2021\n(Acting: 20 July 2020 – 5 January 2021)",
+  "predecessor": "Abulfas Garayev",
+  "president": "Ilham Aliyev",
+  "office1": "First Deputy Minister of Culture of the Republic of Azerbaijan",
+  "president1": "Ilham Aliyev",
+  "term_start1": "20 July 2020",
+  "term_end1": "5 January 2021",
+  "office2": "Permanent Delegate of the Republic of Azerbaijan to UNESCO",
+  "term_start2": "23 May 2014",
+  "term_end2": "20 July 2020",
+  "birth_date": "June 3, 1977",
+  "birth_place": "Fuzuli District, Azerbaijan SSR, USSR",
+  "education": "Baku State University (1998) Academy of Public Administration (2003)",
+  "awards": "Vətənə xidmətə görə I, II və III dərəcəli ordeni.png"
 }

@@ -1,64 +1,8 @@
 {
-  "title": "Sahil Babayev",
-  "pageID": 63784079,
-  "categories": [
-    "Azerbaijani politicians",
-    "1980 births",
-    "Living people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mr. Sahil Babayev, Minister of Labour and Social Protection of Population of the Republic of Azerbaijan.",
-              "links": [
-                {
-                  "text": "Minister of Labour and Social Protection of Population",
-                  "type": "internal",
-                  "page": "Ministry of Labour and Social Protection of the Population (Azerbaijan)"
-                },
-                {
-                  "text": "Republic of Azerbaijan",
-                  "type": "internal",
-                  "page": "Azerbaijan"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Mr. Sahil Babayev"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific_prefix": {
-            "text": "Minister of Labour and Social Protection of Population"
-          },
-          "name": {
-            "text": "Sahil Babayev"
-          },
-          "image": {
-            "text": "File:Sahil Babayev (cropped).jpg"
-          },
-          "birth_date": {
-            "text": "1980",
-            "number": 1980
-          },
-          "birth_place": {
-            "text": "Baku, Azerbaijan SSR, USSR"
-          },
-          "education": {
-            "text": "Baku State University"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific_prefix": "Minister of Labour and Social Protection of Population",
+  "name": "Sahil Babayev",
+  "image": "File:Sahil Babayev (cropped).jpg",
+  "birth_date": "1980",
+  "birth_place": "Baku, Azerbaijan SSR, USSR",
+  "education": "Baku State University"
 }

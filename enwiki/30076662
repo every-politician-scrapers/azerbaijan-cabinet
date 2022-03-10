@@ -1,174 +1,20 @@
 {
-  "title": "Arzu Rahimov",
-  "pageID": 30076662,
-  "categories": [
-    "1964 births",
-    "Living people",
-    "Government ministers of Azerbaijan",
-    "People from the Nakhchivan Autonomous Republic",
-    "Azerbaijani military personnel of the 2020 Nagorno-Karabakh war"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Lieutenant general Arzu Rahimov Yusif oglu (Arzu Rəhimov Yusif oğlu; born October 1, 1964) is an Azerbaijani politician who serves as the Chief of the State Service for Mobilization and Conscription of Azerbaijan.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Lieutenant general"
-                },
-                {
-                  "text": "Azerbaijani",
-                  "type": "internal",
-                  "page": "Azerbaijan"
-                },
-                {
-                  "type": "internal",
-                  "page": "State Service for Mobilization and Conscription of Azerbaijan"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Arzu Rahimov Yusif oglu"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1964",
-          "month": "10",
-          "day": "01",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Arzu Rahimov Arzu Rəhimov"
-          },
-          "title": {
-            "text": "Chief of the State Service for Mobilization and Conscription of Azerbaijan",
-            "links": [
-              {
-                "text": "Chief of the State Service for Mobilization and Conscription of Azerbaijan",
-                "type": "internal",
-                "page": "State Service for Mobilization and Conscription of Azerbaijan"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "February 13, 2012"
-          },
-          "predecessor": {
-            "text": "office established",
-            "formatting": {
-              "italic": [
-                "office established"
-              ]
-            }
-          },
-          "office1": {
-            "text": "Chairman of State Migration Service of Azerbaijan Republic",
-            "links": [
-              {
-                "text": "Chairman of State Migration Service of Azerbaijan Republic",
-                "type": "internal",
-                "page": "State Migration Service (Azerbaijan)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "April 30, 2007"
-          },
-          "term_end1": {
-            "text": "February 13, 2012"
-          },
-          "predecessor1": {
-            "text": "office established",
-            "formatting": {
-              "italic": [
-                "office established"
-              ]
-            }
-          },
-          "successor1": {
-            "text": "Firudin Nabiyev"
-          },
-          "office2": {
-            "text": "First Deputy Chief of State Border Service",
-            "links": [
-              {
-                "text": "State Border Service",
-                "type": "internal",
-                "page": "State Border Service (Azerbaijan)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "2006",
-            "number": 2006
-          },
-          "term_end2": {
-            "text": "April 30, 2007"
-          },
-          "president": {
-            "text": "Ilham Aliyev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ilham Aliyev"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "October 1, 1964"
-          },
-          "birth_place": {
-            "text": "Nakhchivan, Azerbaijan",
-            "links": [
-              {
-                "text": "Nakhchivan",
-                "type": "internal",
-                "page": "Nakhchivan City"
-              },
-              {
-                "type": "internal",
-                "page": "Azerbaijan"
-              }
-            ]
-          },
-          "branch": {
-            "text": "State Border Service",
-            "links": [
-              {
-                "text": "State Border Service",
-                "type": "internal",
-                "page": "State Border Service (Azerbaijan)"
-              }
-            ]
-          },
-          "serviceyears": {
-            "text": "21 years"
-          },
-          "rank": {
-            "text": "Lieutenant general",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lieutenant general"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Arzu Rahimov Arzu Rəhimov",
+  "title": "Chief of the State Service for Mobilization and Conscription of Azerbaijan",
+  "term_start": "February 13, 2012",
+  "predecessor": "office established",
+  "office1": "Chairman of State Migration Service of Azerbaijan Republic",
+  "term_start1": "April 30, 2007",
+  "term_end1": "February 13, 2012",
+  "predecessor1": "office established",
+  "successor1": "Firudin Nabiyev",
+  "office2": "First Deputy Chief of State Border Service",
+  "term_start2": "2006",
+  "term_end2": "April 30, 2007",
+  "president": "Ilham Aliyev",
+  "birth_date": "October 1, 1964",
+  "birth_place": "Nakhchivan, Azerbaijan",
+  "branch": "State Border Service",
+  "serviceyears": "21 years",
+  "rank": "Lieutenant general"
 }

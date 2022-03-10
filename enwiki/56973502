@@ -1,125 +1,18 @@
 {
-  "title": "Vusal Huseynov",
-  "pageID": 56973502,
-  "categories": [
-    "Government of Azerbaijan",
-    "Harvard Kennedy School alumni",
-    "Azerbaijan State University of Economics alumni",
-    "Baku State University alumni",
-    "1980 births",
-    "Living people",
-    "Government ministers of Azerbaijan",
-    "Recipients of the Azerbaijan Democratic Republic 100th anniversary medal"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Vusal Huseynov (born 12 January 1980) is an Azerbaijani public official who serves as the Chief of State Migration Service of the Republic of Azerbaijan since 23 April 2018",
-              "formatting": {
-                "bold": [
-                  "Vusal Huseynov"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Vusal Huseynov"
-          },
-          "title": {
-            "text": "Chief of State Migration Service",
-            "links": [
-              {
-                "text": "Chief of State Migration Service",
-                "type": "internal",
-                "page": "State Migration Service (Azerbaijan)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "April 23, 2018"
-          },
-          "image": {
-            "text": "Vusal Huseynov delivering a speech.jpg"
-          },
-          "president": {
-            "text": "Ilham Aliyev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ilham Aliyev"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of the National Assembly of Azerbaijan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National Assembly of Azerbaijan"
-              }
-            ]
-          },
-          "assembly": {
-            "text": "Parliamentary Assembly of the Council of Europe"
-          },
-          "country": {
-            "text": "Azerbaijan"
-          },
-          "party_election": {
-            "text": "New Azerbaijan Party"
-          },
-          "termstart2": {
-            "text": "November 1, 2015"
-          },
-          "term_end2": {
-            "text": "April 23, 2018"
-          },
-          "assembly2": {
-            "text": "Parliamentary Assembly of the Council of Europe"
-          },
-          "party": {
-            "text": "New Azerbaijan Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "New Azerbaijan Party"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Harvard University Baku State University Azerbaijan State University of Economics",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Harvard University"
-              },
-              {
-                "type": "internal",
-                "page": "Baku State University"
-              },
-              {
-                "type": "internal",
-                "page": "Azerbaijan State University of Economics"
-              }
-            ]
-          },
-          "committees": {
-            "text": "Legal Policies and State Structuring Committee    \nDefence, Security and Combating Corruption Committee"
-          },
-          "birth_date": {
-            "text": "12 January 1980"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Vusal Huseynov",
+  "title": "Chief of State Migration Service",
+  "term_start": "April 23, 2018",
+  "image": "Vusal Huseynov delivering a speech.jpg",
+  "president": "Ilham Aliyev",
+  "office2": "Member of the National Assembly of Azerbaijan",
+  "assembly": "Parliamentary Assembly of the Council of Europe",
+  "country": "Azerbaijan",
+  "party_election": "New Azerbaijan Party",
+  "termstart2": "November 1, 2015",
+  "term_end2": "April 23, 2018",
+  "assembly2": "Parliamentary Assembly of the Council of Europe",
+  "party": "New Azerbaijan Party",
+  "alma_mater": "Harvard University Baku State University Azerbaijan State University of Economics",
+  "committees": "Legal Policies and State Structuring Committee    \nDefence, Security and Combating Corruption Committee",
+  "birth_date": "12 January 1980"
 }

@@ -1,170 +1,18 @@
 {
-  "title": "Elchin Guliyev",
-  "pageID": 30078221,
-  "categories": [
-    "1967 births",
-    "Living people",
-    "Government ministers of Azerbaijan",
-    "People from Sumgait"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Colonel general Elchin Guliyev (Elçin Isa oğlu Quliyev; born 22 September 1967) is an Azerbaijani politician who serves as the Chief of State Border Service of Azerbaijan Republic.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Colonel general"
-                },
-                {
-                  "text": "Azerbaijani",
-                  "type": "internal",
-                  "page": "Azerbaijan"
-                },
-                {
-                  "text": "Chief of State Border Service of Azerbaijan Republic",
-                  "type": "internal",
-                  "page": "State Border Service (Azerbaijan)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Elchin Guliyev"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1967",
-          "month": "09",
-          "day": "22",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Elchin Guliyev Elçin Quliyev"
-          },
-          "image": {
-            "text": "Elçin Quliyev.jpg"
-          },
-          "order": {
-            "text": "1st"
-          },
-          "title": {
-            "text": "Chief of State Border Service of Azerbaijan",
-            "links": [
-              {
-                "text": "Chief of State Border Service of Azerbaijan",
-                "type": "internal",
-                "page": "State Border Service (Azerbaijan)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "July 31, 2002"
-          },
-          "predecessor": {
-            "text": "office established",
-            "formatting": {
-              "italic": [
-                "office established"
-              ]
-            }
-          },
-          "office2": {
-            "text": "Deputy Minister of National Security &ndash; Commander of Border Troops",
-            "links": [
-              {
-                "text": "Minister of National Security",
-                "type": "internal",
-                "page": "Ministry of National Security (Azerbaijan)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "March 21, 2001"
-          },
-          "term_end2": {
-            "text": "July 31, 2002"
-          },
-          "president": {
-            "text": "Ilham Aliyev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ilham Aliyev"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "September 22, 1967"
-          },
-          "birth_place": {
-            "text": "Sumgayit, Azerbaijan SSR, Soviet Union",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sumgayit"
-              },
-              {
-                "type": "internal",
-                "page": "Azerbaijan SSR"
-              },
-              {
-                "type": "internal",
-                "page": "Soviet Union"
-              }
-            ]
-          },
-          "branch": {
-            "text": "State Border Service",
-            "links": [
-              {
-                "text": "State Border Service",
-                "type": "internal",
-                "page": "State Border Service (Azerbaijan)"
-              }
-            ]
-          },
-          "allegiance": {
-            "text": "USSR (1988-1991) 🇦🇿 Azerbaijan (1991-Present)",
-            "links": [
-              {
-                "text": "USSR",
-                "type": "internal",
-                "page": "undefined"
-              },
-              {
-                "text": "Azerbaijan",
-                "type": "internal",
-                "page": "azerbaijan"
-              }
-            ]
-          },
-          "serviceyears": {
-            "text": "1988-Present"
-          },
-          "rank": {
-            "text": "Colonel general",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Colonel general"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Elchin Guliyev Elçin Quliyev",
+  "image": "Elçin Quliyev.jpg",
+  "order": "1st",
+  "title": "Chief of State Border Service of Azerbaijan",
+  "term_start": "July 31, 2002",
+  "predecessor": "office established",
+  "office2": "Deputy Minister of National Security &ndash; Commander of Border Troops",
+  "term_start2": "March 21, 2001",
+  "term_end2": "July 31, 2002",
+  "president": "Ilham Aliyev",
+  "birth_date": "September 22, 1967",
+  "birth_place": "Sumgayit, Azerbaijan SSR, Soviet Union",
+  "branch": "State Border Service",
+  "allegiance": "USSR (1988-1991) 🇦🇿 Azerbaijan (1991-Present)",
+  "serviceyears": "1988-Present",
+  "rank": "Colonel general"
 }

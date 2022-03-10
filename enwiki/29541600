@@ -1,163 +1,17 @@
 {
-  "title": "Samir Sharifov",
-  "pageID": 29541600,
-  "categories": [
-    "1961 births",
-    "Finance ministers of Azerbaijan",
-    "Government ministers of Azerbaijan",
-    "Living people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Samir Rauf oglu Sharifov (Samir Rauf oğlu Şərifov; born September 7, 1961) is an Azerbaijani politician serving as the Minister of Finance of Azerbaijan Republic.",
-              "links": [
-                {
-                  "text": "Azerbaijani",
-                  "type": "internal",
-                  "page": "Azerbaijan"
-                },
-                {
-                  "text": "Minister of Finance of Azerbaijan Republic",
-                  "type": "internal",
-                  "page": "Ministry of Finance (Azerbaijan)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Samir Rauf oglu Sharifov"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Azerbaijani politician",
-          "template": "short description"
-        },
-        {
-          "year": "1961",
-          "month": "9",
-          "day": "7",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Samir Sharifov"
-          },
-          "image": {
-            "text": "Ilham Aliyev chaired meeting of Cabinet of Ministers dedicated to results of socioeconomic development of 2018 and objectives for future 08.jpg"
-          },
-          "office": {
-            "text": "Minister of Finance of Azerbaijan",
-            "links": [
-              {
-                "text": "Minister of Finance of Azerbaijan",
-                "type": "internal",
-                "page": "Ministry of Finance (Azerbaijan)"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Artur Rasizade Novruz Mammadov Ali Asadov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Artur Rasizade"
-              },
-              {
-                "type": "internal",
-                "page": "Novruz Mammadov"
-              },
-              {
-                "type": "internal",
-                "page": "Ali Asadov"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "18 April 2006"
-          },
-          "predecessor": {
-            "text": "Avaz Alakbarov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Avaz Alakbarov"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Executive Director of State Oil Fund of Azerbaijan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "State Oil Fund of Azerbaijan"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "3 January 2001"
-          },
-          "term_end1": {
-            "text": "18 April 2006"
-          },
-          "predecessor1": {
-            "text": "Position established"
-          },
-          "successor1": {
-            "text": "Shahmar Movsumov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shahmar Movsumov"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "September 7, 1961"
-          },
-          "birth_place": {
-            "text": "Azerbaijan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Azerbaijan"
-              }
-            ]
-          },
-          "party": {
-            "text": "Independent",
-            "links": [
-              {
-                "text": "Independent",
-                "type": "internal",
-                "page": "Independent politician"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "National University of Kyiv",
-            "links": [
-              {
-                "text": "National University of Kyiv",
-                "type": "internal",
-                "page": "Taras Shevchenko National University of Kyiv"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Samir Sharifov",
+  "image": "Ilham Aliyev chaired meeting of Cabinet of Ministers dedicated to results of socioeconomic development of 2018 and objectives for future 08.jpg",
+  "office": "Minister of Finance of Azerbaijan",
+  "primeminister": "Artur Rasizade Novruz Mammadov Ali Asadov",
+  "term_start": "18 April 2006",
+  "predecessor": "Avaz Alakbarov",
+  "office1": "Executive Director of State Oil Fund of Azerbaijan",
+  "term_start1": "3 January 2001",
+  "term_end1": "18 April 2006",
+  "predecessor1": "Position established",
+  "successor1": "Shahmar Movsumov",
+  "birth_date": "September 7, 1961",
+  "birth_place": "Azerbaijan",
+  "party": "Independent",
+  "alma_mater": "National University of Kyiv"
 }

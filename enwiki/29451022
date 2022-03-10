@@ -1,127 +1,14 @@
 {
-  "title": "Shahin Mustafayev",
-  "pageID": 29451022,
-  "categories": [
-    "Armenian Azerbaijanis",
-    "1965 births",
-    "Living people",
-    "Government ministers of Azerbaijan",
-    "Azerbaijan State University of Economics alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Shahin Mustafayev Abdulla oglu (Şahin Mustafayev Abdulla oğlu; born June 13, 1965) is an Azerbaijani politician serving as the First Deputy Prime Minister of Azerbaijan.",
-              "links": [
-                {
-                  "text": "Azerbaijani",
-                  "type": "internal",
-                  "page": "Azerbaijan"
-                },
-                {
-                  "type": "internal",
-                  "page": "Prime Minister of Azerbaijan"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Shahin Mustafayev Abdulla oglu"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Azerbaijani politician",
-          "template": "short description"
-        },
-        {
-          "year": "1965",
-          "month": "06",
-          "day": "13",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Shahin Mustafayev Şahin Mustafayev"
-          },
-          "image": {
-            "text": "Shahin Mammadov in 2016.jpg"
-          },
-          "office": {
-            "text": "First Deputy Prime Minister",
-            "links": [
-              {
-                "text": "Prime Minister",
-                "type": "internal",
-                "page": "Prime Minister of Azerbaijan"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "October 22, 2018"
-          },
-          "office1": {
-            "text": "Minister of Economic Development",
-            "links": [
-              {
-                "text": "Minister of Economic Development",
-                "type": "internal",
-                "page": "Ministry of Economic Development (Azerbaijan)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "October 31, 2008"
-          },
-          "predecessor1": {
-            "text": "Heydar Babayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Heydar Babayev"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Deputy Minister of Taxes",
-            "links": [
-              {
-                "text": "Minister of Taxes",
-                "type": "internal",
-                "page": "Ministry of Taxes (Azerbaijan)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "September 6, 2006"
-          },
-          "term_end2": {
-            "text": "October 31, 2008"
-          },
-          "president": {
-            "text": "Ilham Aliyev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ilham Aliyev"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "June 13, 1965"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Shahin Mustafayev Şahin Mustafayev",
+  "image": "Shahin Mammadov in 2016.jpg",
+  "office": "First Deputy Prime Minister",
+  "term_start": "October 22, 2018",
+  "office1": "Minister of Economic Development",
+  "term_start1": "October 31, 2008",
+  "predecessor1": "Heydar Babayev",
+  "office2": "Deputy Minister of Taxes",
+  "term_start2": "September 6, 2006",
+  "term_end2": "October 31, 2008",
+  "president": "Ilham Aliyev",
+  "birth_date": "June 13, 1965"
 }
