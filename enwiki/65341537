@@ -1,201 +1,24 @@
 {
-  "title": "Ali Ahmadov",
-  "pageID": 65341537,
-  "categories": [
-    "New Azerbaijan Party politicians",
-    "Azerbaijani academics",
-    "1953 births",
-    "Living people",
-    "People from Gegharkunik Province"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Ali Cavad oghlu Ahmadov (Əli Cavad oğlu Əhmədov, 27 January 1953) is an Azerbaijani professor, Deputy Prime Minister of the Republic of Azerbaijan, Deputy Chairman of the New Azerbaijan Party, and Executive Secretary of the New Azerbaijan Party.",
-              "links": [
-                {
-                  "text": "professor",
-                  "type": "internal",
-                  "page": "professor"
-                },
-                {
-                  "type": "internal",
-                  "page": "Republic of Azerbaijan"
-                },
-                {
-                  "type": "internal",
-                  "page": "New Azerbaijan Party"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Ali Cavad oghlu Ahmadov"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1953",
-          "month": "01",
-          "day": "27",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Ali Ahmadov"
-          },
-          "native_name": {
-            "text": "Əli Əhmədov"
-          },
-          "image": {
-            "text": "Ali Ahmadov - 2019 (cropped).jpg"
-          },
-          "title": {
-            "text": "Deputy Prime Minister of the Republic of Azerbaijan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Republic of Azerbaijan"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "2013",
-            "number": 2013
-          },
-          "president": {
-            "text": "Ilham Aliyev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ilham Aliyev"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Deputy Chairman of the New Azerbaijan Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "New Azerbaijan Party"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "2005",
-            "number": 2005
-          },
-          "office2": {
-            "text": "Executive Secretary of the New Azerbaijan Party"
-          },
-          "term_start2": {
-            "text": "1999",
-            "number": 1999
-          },
-          "office3": {
-            "text": "Deputy Head of Department in Presidential Administration of Azerbaijan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Presidential Administration of Azerbaijan"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "1997",
-            "number": 1997
-          },
-          "term_end3": {
-            "text": "1999",
-            "number": 1999
-          },
-          "office4": {
-            "text": "Head of Khatai Raion Executive"
-          },
-          "term_start4": {
-            "text": "1999",
-            "number": 1999
-          },
-          "term_end4": {
-            "text": "2000",
-            "number": 2000
-          },
-          "birth_date": {
-            "text": "January 27, 1953"
-          },
-          "birth_place": {
-            "text": "Dara, Basargechar, Armenia SSR, USSR",
-            "links": [
-              {
-                "text": "Dara",
-                "type": "internal",
-                "page": "Daranak"
-              },
-              {
-                "text": "Basargechar",
-                "type": "internal",
-                "page": "Vardenis"
-              },
-              {
-                "type": "internal",
-                "page": "Armenia SSR"
-              },
-              {
-                "type": "internal",
-                "page": "USSR"
-              }
-            ]
-          },
-          "party": {
-            "text": "New Azerbaijan Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "New Azerbaijan Party"
-              }
-            ]
-          },
-          "citizenship": {
-            "text": "USSR 🇦🇿 Azerbaijan",
-            "links": [
-              {
-                "text": "USSR",
-                "type": "internal",
-                "page": "undefined"
-              },
-              {
-                "text": "Azerbaijan",
-                "type": "internal",
-                "page": "azerbaijan"
-              }
-            ]
-          },
-          "education": {
-            "text": "Moscow State Historical-Archival Institute",
-            "links": [
-              {
-                "text": "Moscow State Historical-Archival Institute",
-                "type": "internal",
-                "page": "Russian State University for the Humanities"
-              }
-            ]
-          },
-          "awards": {
-            "text": "POL Order Zaslugi RP kl5 BAR.png Şöhrət ordeni - lent (2009).png"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Ali Ahmadov",
+  "native_name": "Əli Əhmədov",
+  "image": "Ali Ahmadov - 2019 (cropped).jpg",
+  "title": "Deputy Prime Minister of the Republic of Azerbaijan",
+  "term_start": "2013",
+  "president": "Ilham Aliyev",
+  "office1": "Deputy Chairman of the New Azerbaijan Party",
+  "term_start1": "2005",
+  "office2": "Executive Secretary of the New Azerbaijan Party",
+  "term_start2": "1999",
+  "office3": "Deputy Head of Department in Presidential Administration of Azerbaijan",
+  "term_start3": "1997",
+  "term_end3": "1999",
+  "office4": "Head of Khatai Raion Executive",
+  "term_start4": "1999",
+  "term_end4": "2000",
+  "birth_date": "January 27, 1953",
+  "birth_place": "Dara, Basargechar, Armenia SSR, USSR",
+  "party": "New Azerbaijan Party",
+  "citizenship": "USSR 🇦🇿 Azerbaijan",
+  "education": "Moscow State Historical-Archival Institute",
+  "awards": "POL Order Zaslugi RP kl5 BAR.png Şöhrət ordeni - lent (2009).png"
 }

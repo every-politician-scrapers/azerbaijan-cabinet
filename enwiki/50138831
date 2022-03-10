@@ -1,141 +1,15 @@
 {
-  "title": "Mubariz Gurbanli",
-  "pageID": 50138831,
-  "categories": [
-    "1954 births",
-    "Living people",
-    "People from Shamkir",
-    "Government ministers of Azerbaijan",
-    "Baku State University alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mubariz Gahraman oghlu Gurbanli, Chairman to the State Committee on Religious Associations of the Republic of Azerbaijan.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "State Committee on Religious Associations of the Republic of Azerbaijan"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Mubariz Gahraman oghlu Gurbanli"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Chairman to the State Committee on Religious Associations of the Republic of Azerbaijan",
-          "template": "short description"
-        },
-        {
-          "year": "1954",
-          "month": "01",
-          "day": "7",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Mubariz Gurbanli Mübariz Qurbanlı"
-          },
-          "image": {
-            "text": "Mübariz Qurbanlı.jpg"
-          },
-          "predecessor": {
-            "text": "Elshad Isgandarov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elshad Isgandarov"
-              }
-            ]
-          },
-          "president": {
-            "text": "Ilham Aliyev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ilham Aliyev"
-              }
-            ]
-          },
-          "title": {
-            "text": "Chairman to the State Committee on Religious Associations of the Republic of Azerbaijan",
-            "links": [
-              {
-                "text": "Chairman to the State Committee on Religious Associations of the Republic of Azerbaijan",
-                "type": "internal",
-                "page": "State Committee for Work with Religious Organizations (Azerbaijan)"
-              }
-            ]
-          },
-          "flag": {
-            "text": "SCWRA-logo.jpg"
-          },
-          "birth_date": {
-            "text": "January 7, 1954"
-          },
-          "birth_place": {
-            "text": "Shamkir, Koltehneli, Shamkir",
-            "links": [
-              {
-                "text": "Shamkir",
-                "type": "internal",
-                "page": "Shamkir District"
-              },
-              {
-                "text": "Koltehneli, Shamkir",
-                "type": "internal",
-                "page": "Mahmudlu, Shamkir"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "July 21, 2014"
-          },
-          "title2": {
-            "text": "Speaker of the National Assembly of Azerbaijan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Speaker of the National Assembly of Azerbaijan"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "1995",
-            "number": 1995
-          },
-          "term_end2": {
-            "text": "2014",
-            "number": 2014
-          },
-          "awards": {
-            "text": "Shohrat Order (Azerbaijan)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shohrat Order"
-              },
-              {
-                "type": "internal",
-                "page": "Azerbaijan"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Mubariz Gurbanli Mübariz Qurbanlı",
+  "image": "Mübariz Qurbanlı.jpg",
+  "predecessor": "Elshad Isgandarov",
+  "president": "Ilham Aliyev",
+  "title": "Chairman to the State Committee on Religious Associations of the Republic of Azerbaijan",
+  "flag": "SCWRA-logo.jpg",
+  "birth_date": "January 7, 1954",
+  "birth_place": "Shamkir, Koltehneli, Shamkir",
+  "term_start": "July 21, 2014",
+  "title2": "Speaker of the National Assembly of Azerbaijan",
+  "term_start2": "1995",
+  "term_end2": "2014",
+  "awards": "Shohrat Order (Azerbaijan)"
 }

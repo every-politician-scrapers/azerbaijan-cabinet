@@ -1,192 +1,22 @@
 {
-  "title": "Vilayat Eyvazov",
-  "pageID": 65319366,
-  "categories": [
-    "1968 births",
-    "Living people",
-    "Azerbaijani police officers",
-    "Azerbaijani politicians",
-    "People from the Nakhchivan Autonomous Republic",
-    "Azerbaijani military personnel of the 2020 Nagorno-Karabakh war"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Vilayat Suleyman oglu Eyvazov (Vilayət Süleyman oğlu Eyvazov, born 28 June 1968) is an Azerbaijani politician, colonel general and incumbent Minister of Internal Affairs of Azerbaijan.",
-              "links": [
-                {
-                  "text": "Azerbaijani",
-                  "type": "internal",
-                  "page": "Azerbaijan"
-                },
-                {
-                  "text": "colonel general",
-                  "type": "internal",
-                  "page": "colonel general"
-                },
-                {
-                  "text": "Minister of Internal Affairs of Azerbaijan",
-                  "type": "internal",
-                  "page": "Ministry of Internal Affairs (Azerbaijan)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Vilayat Suleyman oglu Eyvazov"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Azerbaijani politician and colonel general",
-          "template": "short description"
-        },
-        {
-          "year": "1968",
-          "month": "06",
-          "day": "28",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Vilayat Eyvazov"
-          },
-          "native_name": {
-            "text": "Vilayət Eyvazov"
-          },
-          "title": {
-            "text": "Minister of Internal Affairs of Azerbaijan",
-            "links": [
-              {
-                "text": "Internal Affairs of Azerbaijan",
-                "type": "internal",
-                "page": "Ministry of Internal Affairs (Azerbaijan)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "20 June 2019"
-          },
-          "predecessor": {
-            "text": "Ramil Usubov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ramil Usubov"
-              }
-            ]
-          },
-          "president": {
-            "text": "Ilham Aliyev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ilham Aliyev"
-              }
-            ]
-          },
-          "office1": {
-            "text": "First Deputy Minister of Internal Affairs of Azerbaijan"
-          },
-          "president1": {
-            "text": "Ilham Aliyev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ilham Aliyev"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "11 March 2016"
-          },
-          "term_end1": {
-            "text": "20 June 2019"
-          },
-          "office2": {
-            "text": "Deputy Minister of Internal Affairs of Azerbaijan"
-          },
-          "president2": {
-            "text": "Ilham Aliyev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ilham Aliyev"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "14 April 2005"
-          },
-          "term_end2": {
-            "text": "11 March 2016"
-          },
-          "birth_date": {
-            "text": "June 28, 1968"
-          },
-          "birth_place": {
-            "text": "Abrakunis, Julfa District, Nakhichevan ASSR, Azerbaijan SSR, USSR",
-            "links": [
-              {
-                "text": "Abrakunis",
-                "type": "internal",
-                "page": "Əbrəqunus"
-              },
-              {
-                "type": "internal",
-                "page": "Julfa District"
-              },
-              {
-                "type": "internal",
-                "page": "Nakhichevan ASSR"
-              },
-              {
-                "type": "internal",
-                "page": "Azerbaijan SSR"
-              },
-              {
-                "type": "internal",
-                "page": "USSR"
-              }
-            ]
-          },
-          "citizenship": {
-            "text": "USSR 🇦🇿 Azerbaijan",
-            "links": [
-              {
-                "text": "USSR",
-                "type": "internal",
-                "page": "undefined"
-              },
-              {
-                "text": "Azerbaijan",
-                "type": "internal",
-                "page": "azerbaijan"
-              }
-            ]
-          },
-          "education": {
-            "text": "Police Academy of Ministry of Internal Affairs of Azerbaijan Republic"
-          },
-          "awards": {
-            "text": "Azərbaycan Bayrağı ordeni - lent (until 2009).png Vətənə xidmətə görə I, II və III dərəcəli ordeni.png Vətənə xidmətə görə I, II və III dərəcəli ordeni.png AZ For Heroism Medal ribbon (1st version).png Daxili işlər orqanlarında qüsursuz xidmətə görə I dərəcəli medalı - lent.png Daxili işlər orqanlarında qüsursuz xidmətə görə II dərəcəli medalı - lent.png Daxili işlər orqanlarında qüsursuz xidmətə görə III dərəcəli medalı - lent.png"
-          },
-          "rank": {
-            "text": "18.AzLF-CG.png"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Vilayat Eyvazov",
+  "native_name": "Vilayət Eyvazov",
+  "title": "Minister of Internal Affairs of Azerbaijan",
+  "term_start": "20 June 2019",
+  "predecessor": "Ramil Usubov",
+  "president": "Ilham Aliyev",
+  "office1": "First Deputy Minister of Internal Affairs of Azerbaijan",
+  "president1": "Ilham Aliyev",
+  "term_start1": "11 March 2016",
+  "term_end1": "20 June 2019",
+  "office2": "Deputy Minister of Internal Affairs of Azerbaijan",
+  "president2": "Ilham Aliyev",
+  "term_start2": "14 April 2005",
+  "term_end2": "11 March 2016",
+  "birth_date": "June 28, 1968",
+  "birth_place": "Abrakunis, Julfa District, Nakhichevan ASSR, Azerbaijan SSR, USSR",
+  "citizenship": "USSR 🇦🇿 Azerbaijan",
+  "education": "Police Academy of Ministry of Internal Affairs of Azerbaijan Republic",
+  "awards": "Azərbaycan Bayrağı ordeni - lent (until 2009).png Vətənə xidmətə görə I, II və III dərəcəli ordeni.png Vətənə xidmətə görə I, II və III dərəcəli ordeni.png AZ For Heroism Medal ribbon (1st version).png Daxili işlər orqanlarında qüsursuz xidmətə görə I dərəcəli medalı - lent.png Daxili işlər orqanlarında qüsursuz xidmətə görə II dərəcəli medalı - lent.png Daxili işlər orqanlarında qüsursuz xidmətə görə III dərəcəli medalı - lent.png",
+  "rank": "18.AzLF-CG.png"
 }

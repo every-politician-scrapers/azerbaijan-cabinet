@@ -1,110 +1,11 @@
 {
-  "title": "Orkhan Sultanov",
-  "pageID": 66073270,
-  "categories": [
-    "1977 births",
-    "Living people",
-    "Azerbaijani generals"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Orkhan Sadyar oghlu Sultanov (Orxan Sedyar oğlu Sultanov, 1977) is the Chief of the Foreign Intelligence Service of the Republic of Azerbaijan, colonel general.",
-              "links": [
-                {
-                  "text": "Foreign Intelligence Service of the Republic of Azerbaijan",
-                  "type": "internal",
-                  "page": "Foreign Intelligence service (Azerbaijan)"
-                },
-                {
-                  "text": "colonel general",
-                  "type": "internal",
-                  "page": "colonel general"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Orkhan Sadyar oghlu Sultanov"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Chief of Foreign Intelligence Service of the Republic of Azerbaijan",
-          "template": "short description"
-        },
-        {
-          "birth_year": "1977",
-          "template": "birth year and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Orkhan Sultanov Orxan Sultanov"
-          },
-          "image": {
-            "text": "Orxan Sultanov.jpg"
-          },
-          "title": {
-            "text": "Chief of the Foreign Intelligence Service of the Republic of Azerbaijan",
-            "links": [
-              {
-                "text": "Foreign Intelligence Service of the Republic of Azerbaijan",
-                "type": "internal",
-                "page": "Foreign Intelligence service (Azerbaijan)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "December 14, 2015"
-          },
-          "predecessor": {
-            "text": "position was established"
-          },
-          "birth_date": {
-            "text": "1977 (age 45)"
-          },
-          "birth_place": {
-            "text": "Baku, Azerbaijan SSR, USSR",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Baku"
-              },
-              {
-                "type": "internal",
-                "page": "Azerbaijan SSR"
-              },
-              {
-                "type": "internal",
-                "page": "USSR"
-              }
-            ]
-          },
-          "awards": {
-            "text": "AZ Zafar order ribbon.png AZ For service to the Fatherland order ribbon.png"
-          },
-          "rank": {
-            "text": "colonel general",
-            "links": [
-              {
-                "text": "colonel general",
-                "type": "internal",
-                "page": "colonel general"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Orkhan Sultanov Orxan Sultanov",
+  "image": "Orxan Sultanov.jpg",
+  "title": "Chief of the Foreign Intelligence Service of the Republic of Azerbaijan",
+  "term_start": "December 14, 2015",
+  "predecessor": "position was established",
+  "birth_date": "1977 (age 45)",
+  "birth_place": "Baku, Azerbaijan SSR, USSR",
+  "awards": "AZ Zafar order ribbon.png AZ For service to the Fatherland order ribbon.png",
+  "rank": "colonel general"
 }
