@@ -2,7 +2,7 @@
   "name": "Farid Gayibov",
   "image": "Farid Gayibov 3.jpg",
   "imagesize": "300px",
-  "image_alt": "Farid Gayibov",
+  "alt": "Farid Gayibov",
   "birth_date": "April 24, 1979",
   "birth_place": "Baku, Azerbaijan SSR, USSR",
   "office1": "Minister of Youth and Sports of Azerbaijan Republic",
@@ -13,6 +13,5 @@
   "education": "Azerbaijan State University of Economics",
   "alma_mater": "Azerbaijan Institute of National Economy Management",
   "children": "3",
-  "religion": "Islam",
   "predecessor1": "Azad Rahimov"
 }
