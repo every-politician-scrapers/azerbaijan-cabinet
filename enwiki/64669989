@@ -1,12 +1,12 @@
 {
-  "name": "Emin Amrullayev Minister of Education",
-  "birth_place": "Baku, Azerbaijan Azerbaijan SSR, Soviet Union (now Azerbaijan)",
-  "birth_date": "30 December 1982",
+  "name": "Emin Amrullayev",
   "image": "Emin Amrullayev.jpg",
-  "predecessor": "Jeyhun Bayramov",
+  "image_size": "220px",
+  "office": "Minister of Education of Azerbaijan",
   "term_start": "27 July 2020",
   "president": "Ilham Aliyev",
-  "office": "Minister of Education of Azerbaijan",
-  "alma_mater": "APA, Azerbaijan Central European University Columbia University",
-  "image_size": "220px"
+  "predecessor": "Jeyhun Bayramov",
+  "birth_date": "December 30, 1982",
+  "birth_place": "Baku, Azerbaijan Azerbaijan SSR, Soviet Union (now Azerbaijan)",
+  "alma_mater": "APA, Azerbaijan Central European University Columbia University"
 }
