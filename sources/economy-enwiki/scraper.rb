@@ -4,32 +4,43 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
-require 'open-uri/cached'
+class OfficeholderNonTable < OfficeholderListBase::OfficeholderBase
+  def empty?
+    too_early?
+  end
+
+  def combo_date?
+    true
+  end
+
+  def raw_combo_date
+    raise 'need to define a raw_combo_date'
+  end
+
+  def name_node
+    raise 'need to define a name_node'
+  end
+
+  def too_early?
+    start_year < ignore_before
+  end
+end
 
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
-  decorator UnspanAllTables
   decorator WikidataIdsDecorator::Links
-
-  def header_column
-    'List of Ministers'
-  end
 
   # TODO: make this easier to override
   def holder_entries
-    noko.xpath("//h2[.//span[contains(.,'#{header_column}')]][last()]//following-sibling::ul[1]//li[a]")
+    noko.xpath("//h2[.//span[contains(.,'List of Ministers')]]//following-sibling::ul[1]//li[a]")
   end
 
-  class Officeholder < OfficeholderBase
-    def combo_date?
-      true
+  class Officeholder < OfficeholderNonTable
+    def raw_combo_date
+      noko.text.split(',', 2).last
     end
 
-    def raw_combo_dates
-      noko.text.split(',', 2).last.split('-').map(&:tidy)
-    end
-
-    def name_cell
+    def name_node
       noko.css('a')
     end
   end
