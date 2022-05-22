@@ -6,7 +6,7 @@ require 'pry'
 
 class MemberList
   # details for an individual member
-  class Member < Scraped::HTML
+  class Member
     field :name do
       name_and_position.last
     end
@@ -24,13 +24,7 @@ class MemberList
   end
 
   # The page listing all the members
-  class Members < Scraped::HTML
-    field :members do
-      member_container.map { |member| fragment(member => Member).to_h }.uniq
-    end
-
-    private
-
+  class Members
     def member_container
       # The PM has a different layout, so this should catch everyone
       noko.css('.articleBody p strong')
