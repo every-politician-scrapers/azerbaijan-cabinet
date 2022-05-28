@@ -1,7 +1,8 @@
 {
   "name": "Mehriban Aliyeva",
   "native_name": "Mehriban Əliyeva",
-  "office": "1st Vice President of Azerbaijan",
+  "order": "1st",
+  "office": "Vice President of Azerbaijan",
   "term_start": "21 February 2017",
   "president": "Ilham Aliyev",
   "predecessor": "Position established",
@@ -25,5 +26,6 @@
   "children": "Leyla\nArzu\nHeydar",
   "alma_mater": "Azerbaijan Medical University",
   "signature": "Signature of Mehriban Aliyeva.png",
-  "website": "mehriban-aliyeva.az/en"
+  "website": "mehriban-aliyeva.az/en",
+  "native_name_lang": "az"
 }
