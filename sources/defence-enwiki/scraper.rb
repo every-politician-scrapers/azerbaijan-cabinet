@@ -20,12 +20,8 @@ class OfficeholderList < OfficeholderListBase
       %w[no image name start end duration].freeze
     end
 
-    def tds
-      noko.css('th,td')
-    end
-
     def empty?
-      tds[4].text == tds[5].text
+      (tds[4].text == tds[5].text) || too_early?
     end
   end
 end
